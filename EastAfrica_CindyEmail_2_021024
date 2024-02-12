@@ -1,0 +1,471 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN""http://www.w3.org/TR/REC-html40/loose.dtd"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><img src="http://click.e.uwo.ca/open.aspx?ffcb10-fec21376716c057e-fe4e17777d6c0c7c7c11-fe3b117171640479741071-ff60157873-fe541776706001787d13-ffcd16&amp;d=110039&amp;bmt=0" width="1" height="1" alt="">
+<html lang="en">
+<head>
+<base target="_blank">
+<title></title>
+
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600|Open Sans:400,400i,600,700,800,900&amp;display=swap" rel="stylesheet">
+  <!-- font awesome icons -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+
+<style type="text/css">
+ body *{font-family: 'Open Sans', Arial, sans-serif !important}
+ td[class].opensans {font-family: 'Open Sans', Arial, sans-serif !important}
+ td[class].OpenSans,
+ td[class].font30,
+ td[class].font30 span,
+    .OpenSans span{font-family: 'Open Sans', sans-serif, Arial, sans-serif !important}
+ div, p, a, li, td { -webkit-text-size-adjust:none; }
+ *{-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+ td{word-break: break-word;}
+ a{word-break: break-word; text-decoration: none; color: inherit;}
+ body {width: 100%; height: 100%; background-color: #ffffff; margin:0; padding:0; -webkit-font-smoothing: antialiased;}
+ body html{ background-color:#242021; width: 100%;}
+
+ body p {padding: 0!important; margin-top: 0!important; margin-right: 0!important; margin-bottom: 0!important; margin-left: 0!important; }
+ body img {user-drag: none; -moz-user-select: none; -webkit-user-drag: none;}
+ body a.scale img  {-webkit-transition: all 1s ease-in-out;-moz-transition: all 1s ease-in-out; -o-transition: all 1s ease-in-out; -ms-transition: all 1s ease-in-out; }
+ body .btn ,
+ body .btn:hover {-webkit-transition: all 0.5s ease-in-out;-moz-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; }
+ body a.scale img:hover  ,
+ body .btn:hover{-webkit-transform: scale(1.1); -moz-transform:  scale(1.1); -o-transform:  scale(1.1);-ms-transform:  scale(1.1); }
+ body .hover:hover {opacity:0.85;filter:alpha(opacity=85);}
+ body .jump:hover {opacity:0.75; filter:alpha(opacity=75); padding-top: 10px!important;}
+ body #opacity {filter: alpha(opacity=20); opacity: 0.20;}
+ body .header_logo{width:200px!important}
+ body td> div,
+  body span> div,
+  body a> div{display:inline;}
+  body .inline div{display:inline;}
+  .tripleImageRow{
+ display:flex;
+ width: 100%
+  }
+  .tripleImageColumns {
+ width: 33.33%;
+ padding-bottom: 1rem;
+ display: flex;
+ flex-direction: column;
+  }
+  .tripleImageText{
+ flex: 1 1 auto;
+ padding-bottom: 1.3em;
+  }
+  .tripleImageTitle{
+ padding-bottom: 1rem;
+  }
+  .middleColumn{
+ padding-left: 1em;
+ padding-right:  1em;
+  }
+  
+  /* What it does: Hover styles for buttons */
+        .button-td,
+        .button-a {
+            transition: all 100ms ease-in;
+        }
+        .button-td:hover,
+        .button-a:hover {
+            background: #555555 !important;
+            border-color: #555555 !important;
+        }
+  
+  .button-a-border {
+   transition: all 100ms ease-in;
+   background: #ffffff !important;
+   border: 2px solid #4f2683 !important;
+   color: #4f2683 !important;
+   font-family: 'Open Sans',Helvetica, Arial, sans-serif ;
+   font-size: 18px;
+   font-weight: 600;
+  }
+  .button-a-border:hover {
+   background: #4f2683 !important;
+   border: 2px solid #4f2683 !important;
+   color: #ffffff !important;
+  }
+
+  @media only screen and (max-width: 600px){
+   body  body{width:auto!important;}
+   body  table[class="full"] {width: 100%!important; max-width: 100% !important; clear: both; }
+   body  table[class=mobile] {width: 100%!important; padding-left: 30px; padding-right: 30px; clear: both; }
+   body  table[class=fullCenter] {width: 100%!important; text-align: center!important; clear: both; }
+   body  .fullCenter {width: 100%!important; text-align: center!important; clear: both; }
+   body  *[class=erase] {display: none;}
+   body  *[class=buttonScale] {float: none!important; text-align: center!important; display: inline-block!important; clear: both;}
+   body  .buttonScale2 {float: none!important; text-align: center!important; display: inline-block!important; clear: both;}
+   body  *[class=h10] {width: 100%!important; height: 10px!important;}
+   body  *[class=h20] {width: 100%!important; height: 20px!important;}
+   body  *[class=h30] {width: 100%!important; height: 30px!important;}
+   body  *[class=h40] {width: 100%!important; height: 40px!important;}
+   body  td[class].h50 {width: 100%!important; height: 50px!important;}
+   body  td[class].pad20 {padding-left: 20px!important; padding-right: 20px!important; text-align: center!important; clear: both;}
+   body  td[class].fullCenterMob {width: 100%!important; text-align: center!important; clear: both; }
+   body
+   body  table[class=mcenter]{text-align:center; vertical-align:middle; clear:both!important; float:none; margin: 0px auto!important;}
+   body  .lineCenter{background-position:center top!important;}
+   body  .imagefull img{width:90%!important; }
+   body .bigHeading{font-size:75px!important; line-height:1!important;}
+   body .whiteBg{background:#ffffff!important;}
+   body .nobg{background:none!important;}
+   body .font30{font-size:30px!important; line-height:1.2!important; font-family: 'OpenSans', Arial, sans-serif !important}
+ .tripleImageRow{
+  display: table;
+ }
+   .tripleImageColumns{
+ width: 100%;
+   }
+   .middleColumn{
+ padding-left: 0;
+ padding-right: 0;
+   }
+
+}
+@media only screen and (max-width: 479px){
+   body  body{width:auto!important;}
+   body  table[class=full] {width: 100%!important; clear: both; }
+   body  table[class=mobile] {width: 100%!important; padding-left: 10px; padding-right: 10px; clear: both; }
+   body  table[class=fullCenter] {width: 100%!important; text-align: center!important; clear: both; }
+   body   .fullCenter {width: 100%!important; text-align: center!important; clear: both; }
+   body .fullLeft{width:100%; text-align:left;}
+   body  *[class=erase] {display: none;}
+   body  *[class=buttonScale] {float: none!important; text-align: center!important; display: inline-block!important; clear: both;}
+   body  .buttonScale2 {width: 100%!important; text-align: center!important; clear: both;}
+   body  *[class=h10] {width: 100%!important; height: 10px!important;}
+   body  *[class=h20] {width: 100%!important; height: 20px!important;}
+   body  *[class=h30] {width: 100%!important; height: 30px!important;}
+   body  *[class=h40] {width: 100%!important; height: 40px!important;}
+   body  td[class].h50 {width: 100%!important; height: 50px!important;}
+   body  td[class].pad20 {padding-left: 20px!important; padding-right: 20px!important; text-align: center!important; clear: both; }
+   body  .image290 img {width: 80%!important;}
+   body  .imagefull img{width:90%!important; }
+    body .header_logo{width:150px!important}
+   body  td[class].fullCenterMob {width: 100%!important; text-align: center!important; clear: both; }
+   body  table[class=mcenter] {text-align:center;vertical-align:middle; clear:both!important; float:none; margin: 0px auto!important;}
+   body  .lineCenter{background-position:center top!important;}
+   body  .img370{float:none!important; text-align:center!important;}
+   body  .img370 img{width:80%; text-align:center!important; float:none!important;  max-width:370px;}
+   body  .bigHeading{font-size:60px!important;line-height:1!important;}
+   body  .removePattern{background-image:none!important;}
+   body .whiteBg{background:#ffffff!important;}
+   body .nobg{background:none!important;}
+   body .font30{font-size:27px!important; line-height:1.2!important; font-family: 'OpenSans',  Arial, sans-serif !important}
+}</style>
+
+
+
+  
+</head>
+  
+<body style="margin: 0; padding: 0; background-color:#242021" bgcolor="#242021"><style type="text/css">
+div.preheader 
+{ display: none !important; } 
+</style>
+<div class="preheader" style="font-size: 1px; display: none !important;">Undergraduate, here's your pocket sized guide to university lingo</div>
+  <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center" role="presentation" bgcolor="#242021">
+    <tr>
+      <td>
+
+
+    <table style="max-width:680px;" cellspacing="0" cellpadding="0" border="0" align="center" role="presentation" bgcolor="#242021">
+        <tbody>
+          <tr>
+              <td>
+                <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><style type="text/css">
+/* Styles for the email header */
+.email-header {
+    width: 100%;
+    padding: 20px 0;
+    text-align: center;
+    background-color: #4f2683;
+}
+
+.email-header img {
+    height: 50px;
+    width: 100%; /* Allow for responsive scaling */
+}</style><!-- Email Header : BEGIN WESTERN UNIVERSITY HEADER --><table align="center" border="0" cellpadding="0" cellspacing="0" class="email-container" role="presentation" style="table-layout: fixed; width: 100%; background-color: #4f2683;">
+	
+		<tr style="background-color: #4f2683;">
+			<td style="background-color: #4f2683;">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%; background-color: #4f2683;">
+					
+						<tr style="background-color: #4f2683;">
+							<!-- Moved background-color style here --><td style="padding: 20px 0; text-align: center; background-color: #4f2683;">
+								<img alt="Western University Logo" border="0" height="50" src="https://registrar.uwo.ca/services/img/Western_Logo_R_CMYK.png" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -ms-interpolation-mode: bicubic;" width="200"></td></tr></table></td></tr></table><!-- Email Header : END --></td></tr></table>
+                 <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- title text --><table align="center" bgcolor="#ffffff" border="0" cellpadding="25" cellspacing="0" class="full" role="presentation" width="100%">
+	
+		<tr>
+			<td align="center" valign="top" width="100%">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="mobile" role="presentation" width="100%">
+					
+						<tr>
+							<td align="center">
+								<p>
+								</p><table align="center" border="0" cellpadding="0" cellspacing="0" class="full" role="presentation" width="100%">
+									
+										<tr>
+											<td align="center" width="100%">
+												<table align="center" border="0" cellpadding="0" cellspacing="0" class="full" role="presentation" style="border-collapse:collapse; mso-table-lspace:0pt;                            mso-table-rspace:0pt;" width="100%">
+													
+														<tr>
+															<td height="10" width="100%">
+															</td></tr><tr>
+															<td class="left" style="font-size: 30px; color: #663498;                                text-align: left;font-family:'Open Sans',Helvetica, Arial, sans-serif;                                line-height: 26px; vertical-align: top; font-weight: 600;" width="100%">
+																<!--  --><p style="text-align: center;">
+																	Hi&nbsp;Undergraduate&nbsp;&#128075;</p></td></tr><tr>
+															<td height="15" width="100%">
+																<br>
+																&nbsp;</td></tr><tr>
+															<td class="left opensans" style="font-size: 15px; color: #797979; text-align: left;                                font-family: 'Open Sans',Helvetica, Arial, sans-serif ;                                line-height: 24px; vertical-align: top; font-weight: 400;" width="100%">
+																<!--  --><h3 style="">
+																</h3><p style="margin: 0px 0px 10px;">
+																	Cindy here &#128522; As you think about what you’ll study in university I’m sure you’ve seen some terms such as “modules”, “programs”, “credits” and many more come up that can seem intimidating at first glance. However, familiarizing yourself with these terms can greatly help you plan out the course of your undergraduate journey as you begin to think about what degree you’d like to graduate with.&nbsp;&nbsp;</p></td></tr></table></td></tr><tr>
+										</tr></table></td></tr></table></td></tr></table><!-- //title text --></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- title text --><table align="center" bgcolor="#ffffff" border="0" cellpadding="25" cellspacing="0" class="full" role="presentation" width="100%">
+	
+		<tr>
+			<td class="fullCenter opensans" style="font-size: 15px; color: #797979; text-align: left;                                font-family: 'Open Sans',Helvetica, Arial, sans-serif ;                                line-height: 24px; vertical-align: top; font-weight: 400;" width="100%">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="margin: auto;">
+					
+						<tr>
+							<td class="button-td button-td-primary" style="border-radius:25px; background: #4F2683;">
+								<a class="button-a button-a-primary" data-linkto="https://" href="http://click.e.uwo.ca/?qs=9718fe491fbded0c7c237bc6569bed009c8b95897bf9642cd051244c778c999a585dcd075f06731d10270fd5d4b41dabe456be759f647059" style="color:#ffffff;text-decoration:none;background: #4F2683; border: 1px solid #4F2683; font-family: Arial, Helvetica, sans-serif; font-size: 22px; line-height: 15px; padding: 13px 17px; display: block; border-radius: 4px;" title=""><b>How to Plan Your Degree</b></a></td></tr></table></td></tr></table><!-- //title text --></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- title text --><table align="center" bgcolor="#ffffff" border="0" cellpadding="25" cellspacing="0" class="full" role="presentation" width="100%">
+	
+		<tr>
+			<td align="center" valign="top" width="100%">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="mobile" role="presentation" width="100%">
+					
+						<tr>
+							<td align="center">
+								<table align="center" border="0" cellpadding="0" cellspacing="0" class="full" role="presentation" width="100%">
+									
+										<tr>
+											<td align="center" width="100%">
+												<table align="center" border="0" cellpadding="0" cellspacing="0" class="full" role="presentation" style="border-collapse:collapse; mso-table-lspace:0pt;                            mso-table-rspace:0pt;" width="100%">
+													
+														<tr>
+															<td height="10" width="100%">
+															</td></tr><tr>
+															<td class="fullCenter" style="font-size: 28px; color: rgb(102, 52, 152); font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; line-height: 26px; vertical-align: top; font-weight: 600; text-align: center;" width="100%">
+																Great! What should I look out for?</td></tr><tr>
+															<td height="15" width="100%">
+															</td></tr><tr>
+															<td class="fullCenter opensans" style="font-size: 15px; color: rgb(121, 121, 121); font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; line-height: 24px; vertical-align: top; font-weight: 400; text-align: center;" width="100%">
+																Here's your very own quick guide to some common university terminology&nbsp;&#128077;</td><td class="fullCenter opensans" style="font-size: 15px; color: #797979; text-align: left;                                font-family: 'Open Sans',Helvetica, Arial, sans-serif ;                                line-height: 24px; vertical-align: top; font-weight: 400;" width="100%">
+															</td><td class="fullCenter opensans" style="font-size: 15px; color: #797979; text-align: left;                                font-family: 'Open Sans',Helvetica, Arial, sans-serif ;                                line-height: 24px; vertical-align: top; font-weight: 400;" width="100%">
+															</td></tr></table></td></tr></table></td></tr></table></td></tr></table><!-- //title text --></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" role="presentation" width="100%" style="max-width: 680px; width: 100%;">
+ 
+  <tr>
+   <td align="center">
+    <!--[if mso]>       <img src="http://image.e.uwo.ca/lib/fe3b117171640479741071/m/1/4dddc144-8f64-423e-9bdb-f97370b23092.png" alt="Description" width="680" style="max-width:680px;">       <![endif]--><!--[if !mso]> -->
+<img alt="Faculty: a division (or department) that focuses on a single subject or related subject areas (example: Faculty of Arts and Humanities). Program: the subject that is the main focus of your university degree. Most courses you take will be in your program (example: English). Module: a group of courses in one subject area. Finishing a module goes on your degree and to graduate, you must complete at least one module. Credit: the 'weight' of a course, whereby a full year course is worth 1.0 credits and a half year course is worth 0.5 credits. Crafting your schedule involves a mix of courses with various credits (depending on your program)." data-assetid="356231" src="http://image.e.uwo.ca/lib/fe3b117171640479741071/m/1/4dddc144-8f64-423e-9bdb-f97370b23092.png" style="display: block;
+ padding: 0px; text-align: center; height: auto; max-width: 680px; width: 100%; border: 0px;"> <!-- <![endif]--></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- title text --><table align="center" bgcolor="#ffffff" border="0" cellpadding="25" cellspacing="0" class="full" role="presentation" width="100%">
+	
+		<tr>
+			<td align="center" valign="top" width="100%">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="mobile" role="presentation" width="100%">
+					
+						<tr>
+							<td align="center">
+								<table align="center" border="0" cellpadding="0" cellspacing="0" class="full" role="presentation" width="100%">
+									
+										<tr>
+											<td align="center" width="100%">
+												<table align="center" border="0" cellpadding="0" cellspacing="0" class="full" role="presentation" style="border-collapse:collapse; mso-table-lspace:0pt;                            mso-table-rspace:0pt;" width="100%">
+													
+														<tr>
+															<td height="10" width="100%">
+															</td></tr><tr>
+															<td class="fullCenter" style="font-size: 28px; color: rgb(102, 52, 152); font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; line-height: 26px; vertical-align: top; font-weight: 600; text-align: center;" width="100%">
+																Here are some extra tips&nbsp;&#128521;</td></tr><tr>
+															<td height="15" width="100%">
+															</td></tr></table></td></tr></table></td></tr></table></td></tr></table><!-- //title text --></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+	
+		<tr>
+			<!-- dir=ltr is where the magic happens. This can be changed to dir=rtl to swap the alignment on wide while maintaining stack order on narrow. --><td dir="ltr" height="100%" style="font-size:0; padding: 25px; background-color: #ffffff;" valign="top" width="100%">
+				<!--[if mso]>                         <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">                         <tr>                         <td valign="top" width="220" style="width: 220px;">                         <![endif]--><div class="stack-column" style="display:inline-block; margin: 0 -1px; max-width: 120px; min-width:100px; vertical-align:top; width:100%;">
+					<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+						
+							<tr>
+								<td dir="ltr" style="padding: 0 10px 10px 10px;">
+									<img alt="alt_text" border="0" class="center-on-narrow" data-assetid="276336" src="http://image.e.uwo.ca/lib/fe3b117171640479741071/m/1/ae5ede8b-2295-410f-a9e7-4d8b15679a7d.png" style="width: 100%; max-width: 100px; height: auto; font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 15px; color: #444444; padding: 0px; text-align: center;" width="100"></td></tr></table></div><!--[if mso]>                         </td>                         <td valign="top" width="440" style="width: 440px;">                         <![endif]--><div class="stack-column" style="display:inline-block; margin: 0 -1px; max-width: 440px; min-width:280px; vertical-align:top;">
+					<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+						
+							<tr>
+								<td class="center-on-narrow" dir="ltr" style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #444444; padding: 10px 10px 0; text-align: left;">
+									<p style="margin: 0 0 10px 0;">
+										<span style="color:#4f2683;"><b>Keep an eye out for&nbsp;prerequisites</b></span></p></td></tr><tr>
+								<td class="center-on-narrow" dir="ltr" style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #797979; padding: 10px 10px 0; text-align: left;">
+									Some courses have pre-requisites (classes that must be completed before another course). You can keep track of what your module entails through <a data-linkto="https://" href="http://click.e.uwo.ca/?qs=9718fe491fbded0ce9dca1b6f68c6104f4e6093a347afee5208a134b78be202b74718b8c7ad9cf22db36477da04fd7aca2997958148115d4" style="text-decoration:none;" title="Western’s Academic Calendar"><span style="color:#4f2683;">Western’s Academic Calendar</span></a>&nbsp;&#128467;️</td></tr></table></div><!--[if mso]>                         </td>                         </tr>                         </table>                         <![endif]--></td></tr><tr>
+			<!-- dir=ltr is where the magic happens. This can be changed to dir=rtl to swap the alignment on wide while maintaining stack order on narrow. --><td dir="ltr" height="100%" style="font-size:0; padding: 25px; background-color: #ffffff;" valign="top" width="100%">
+				<!--[if mso]>                         <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">                         <tr>                         <td valign="top" width="220" style="width: 220px;">                         <![endif]--><div class="stack-column" style="display:inline-block; margin: 0 -1px; max-width: 120px; min-width:100px; vertical-align:top; width:100%;">
+					<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+						
+							<tr>
+								<td dir="ltr" style="padding: 0 10px 10px 10px;">
+									<img alt="alt_text" border="0" class="center-on-narrow" data-assetid="276338" src="http://image.e.uwo.ca/lib/fe3b117171640479741071/m/1/185a674c-cc62-44b1-8cfc-520a7e72aa3f.png" style="width: 100%; max-width: 100px; height: auto; font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 15px; color: #444444; padding: 0px; text-align: center;" width="100"></td></tr></table></div><!--[if mso]>                         </td>                         <td valign="top" width="440" style="width: 440px;">                         <![endif]--><div class="stack-column" style="display:inline-block; margin: 0 -1px; max-width: 440px; min-width:280px; vertical-align:top;">
+					<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+						
+							<tr>
+								<td class="center-on-narrow" dir="ltr" style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #444444; padding: 10px 10px 0; text-align: left;">
+									<p style="margin: 0 0 10px 0;">
+										<span style="color:#4f2683;"><b>Plan around your breadth requirements</b></span></p></td></tr><tr>
+								<td class="center-on-narrow" dir="ltr" style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #797979; padding: 10px 10px 0; text-align: left;">
+									Plan around ensuring that you satisfy your <a data-linkto="https://" href="http://click.e.uwo.ca/?qs=9718fe491fbded0c5b7265a154a7962dad7390f5cdb92fae584164a3bfbfda7cb8bccd1c569fd445c45e2c541058e2d786be8b05762718bf" style="text-decoration:none;" title="breadth requirements"><span style="color:#4f2683;">breadth requirements</span></a><span style="color:#4f2683;"> </span>(basic requirements all undergraduate students must complete to graduate) &#128203;&nbsp;</td></tr></table></div><!--[if mso]>                         </td>                         </tr>                         </table>                         <![endif]--></td></tr><tr>
+			<!-- dir=ltr is where the magic happens. This can be changed to dir=rtl to swap the alignment on wide while maintaining stack order on narrow. --><td dir="ltr" height="100%" style="font-size:0; padding: 25px; background-color: #ffffff;" valign="top" width="100%">
+				<!--[if mso]>                         <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">                         <tr>                         <td valign="top" width="220" style="width: 220px;">                         <![endif]--><div class="stack-column" style="display:inline-block; margin: 0 -1px; max-width: 120px; min-width:100px; vertical-align:top; width:100%;">
+					<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+						
+							<tr>
+								<td dir="ltr" style="padding: 0 10px 10px 10px;">
+									<img alt="alt_text" border="0" class="center-on-narrow" data-assetid="276337" src="http://image.e.uwo.ca/lib/fe3b117171640479741071/m/1/4d483647-fe1d-416f-9d72-a0728d534a03.png" style="width: 100%; max-width: 100px; height: auto; font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 15px; color: #444444; padding: 0px; text-align: center;" width="100"></td></tr></table></div><!--[if mso]>                         </td>                         <td valign="top" width="440" style="width: 440px;">                         <![endif]--><div class="stack-column" style="display:inline-block; margin: 0 -1px; max-width: 440px; min-width:280px; vertical-align:top;">
+					<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+						
+							<tr>
+								<td class="center-on-narrow" dir="ltr" style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #444444; padding: 10px 10px 0; text-align: left;">
+									<p style="margin: 0 0 10px 0;">
+										<span style="color:#4f2683;"><b>Make sure you don't miss your deadlines</b></span></p></td></tr><tr>
+								<td class="center-on-narrow" dir="ltr" style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #797979; padding: 10px 10px 0; text-align: left;">
+									Course registration normally begins in June. Be sure to check your email for alerts on when it’s time to register for courses.<br>
+									<br>
+									Sounds like a lot? Don't worry! In June, you can connect with our <a data-linkto="https://" href="http://click.e.uwo.ca/?qs=9718fe491fbded0c463566701edf13c554dbc4892dc2436f351a9416394f74420b6c49197c98fffd2aecea73b24e64ed411ea94182b9253a" style="text-decoration:none;" title="Summer Academic Orientation (SAO) program"><span style="color:#4f2683;">Summer Academic Orientation (SAO) program</span></a>&nbsp;if you need any further support on course selection or any further questions about programs and services at Western&nbsp;&nbsp;✅</td></tr></table></div><!--[if mso]>                         </td>                         </tr>                         </table>                         <![endif]--></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- title text --><style type="text/css">
+@media only screen and (max-width: 480px) {
+    td[class="fullCenter opensans"] {
+      text-align: left !important;
+    }
+  }</style><table align="left" bgcolor="#ffffff" border="0" cellpadding="25" cellspacing="0" class="full" role="presentation" width="100%">
+ 
+  <tr>
+   <td align="left" valign="top" width="100%">
+    <table align="left" border="0" cellpadding="0" cellspacing="0" class="mobile" role="presentation" width="100%">
+     
+      <tr>
+       <td align="left">
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="full" role="presentation" width="100%">
+         
+          <tr>
+           <td align="left" width="100%">
+            <table align="left" border="0" cellpadding="0" cellspacing="0" class="full" role="presentation" style="border-collapse:collapse; mso-table-lspace:0pt;                            mso-table-rspace:0pt;" width="100%">
+             
+              <tr>
+               <td style="font-size: 15px; text-align: left; font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; line-height: 24px; vertical-align: top; font-weight: 400;" width="100%">
+                <div class="stack-column" style="display:inline-block; margin: 0 -1px; max-width: 120px; min-width:100px; vertical-align:top; width:100%;">
+                 <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                  
+                   <tr>
+                    <td dir="ltr" style="padding: 0 10px 10px 10px;">
+                     <img alt="alt_text" border="0" class="center-on-narrow" data-assetid="303290" src="http://image.e.uwo.ca/lib/fe3b117171640479741071/m/1/9c27630d-a3ad-4a32-b0b2-163cd1ac63df.png" style="width: 100%; max-width: 100px; height: auto; font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 15px; color: #444444; padding: 0px; text-align: center;" width="100"></td></tr></table></div><!--{C}%3C!%2D%2D%5Bif%20mso%5D%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20valign%3D%22top%22%20width%3D%22440%22%20style%3D%22width%3A%20440px%3B%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C!%5Bendif%5D%2D%2D%3E-->
+<div class="stack-column" style="display:inline-block; margin: 0 -1px; max-width: 440px; min-width:280px; vertical-align:top;">
+                 <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                  
+                   <tr>
+                    <td class="center-on-narrow" dir="ltr" style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #444444; padding: 10px 10px 0; text-align: left;">
+                     <p style="margin: 0 0 10px 0;">
+                      <span style="color:#4f2683;"><b>Keep an eye out for transfer credits</b></span></p></td></tr><tr>
+                    <td class="center-on-narrow" dir="ltr" style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #444444; padding: 10px 10px 0; text-align: left;">
+                     <span style="color:#797979;">Your HL courses can provide transfer credits that could knock out breadth requirement, ‘skip equivalent classes at Western’ or even enable you to access upper-year courses as a first year!<br>
+                     <br>
+                     I was an IB student too and thanks to my credits from HL English and HL Geography, I managed to fulfil my breadth requirements! Yay</span> &#128512;&nbsp;<a aria-label="Link Learn more about IB transfer credits" href="http://click.e.uwo.ca/?qs=4466d9c21608ae106e1e4757e6513f14df67439c7bb3ebbd80f20657b5206003019b159bd9111beaf729bb805ea533b31fb9dc8feb895c6b" rel="noreferrer noopener" target="_blank" title="https://welcome.uwo.ca/next-steps/requirements/international-baccalaureate.html"><span style="color:#4f2683;">Learn more about IB transfer credits</span></a></td></tr></table></div><p paraeid="{8716f22d-48e9-48c7-911e-569cd22ba371}{232}" paraid="124733453" style="">
+                </p><!--  --></td></tr></table></td></tr></table></td></tr></table></td></tr></table><!-- Button : END --><!-- //title text --></td></tr></table>
+
+</td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" bgcolor="#ffffff" border="0" cellpadding="10" cellspacing="0" width="100%">
+	
+		<tr>
+			<td align="center" valign="top" width="100%">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="mobile" width="100%">
+					
+						<tr>
+							<td align="center">
+								<table align="center" border="0" cellpadding="0" cellspacing="0" class="full" width="100%">
+									
+										<tr>
+											<td align="center" width="100%">
+												<!-- Text --><table align="center" border="0" cellpadding="0" cellspacing="0" class="full" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" width="100%">
+													
+														<tr>
+															<td height="60" width="100%">
+															</td></tr><tr>
+															<td align="center" width="100%">
+																<table align="left" border="0" cellpadding="0" cellspacing="0" class="full" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" width="200">
+																	
+																		<tr>
+																			<td class="fullCenter" width="100%">
+																				<img alt="" border="0" class="hover" data-assetid="354492" src="http://image.e.uwo.ca/lib/fe3b117171640479741071/m/1/e5c2c7bf-ed8e-4327-960b-73343ae51f7a.jpg" style="width: 100%; height: auto; padding: 0px; text-align: center;" width="400"></td></tr></table><table align="left" border="0" cellpadding="0" cellspacing="0" class="full" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" width="200">
+																	
+																		<tr>
+																			<td height="30" width="100%">
+																			</td></tr></table><!-- Headline --><table align="right" border="0" cellpadding="0" cellspacing="0" class="full" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" width="300">
+																	
+																		<tr>
+																			<td width="100%">
+																				<table align="right" border="0" cellpadding="0" cellspacing="0" class="fullCenter" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" width="300">
+																					
+																						<tr>
+																							<td class="font30 fullCenter" style="font-size: 24px; color: #663498; text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; line-height: 32px; vertical-align: top;font-weight: 800;">
+																								Talk Soon!</td></tr></table></td></tr><tr>
+																			<td height="10" width="100%">
+																			</td></tr><tr>
+																			<td class="poppins fullCenter" style="font-size: 16px; color:#1a1919; text-align: left; font-family: Helvetica, Arial, sans-serif, 'Poppins'; line-height: 22px; vertical-align: top; font-weight:400;">
+																				Cindy K</td></tr><tr>
+																			<td height="20" width="100%">
+																			</td></tr><tr>
+																			<td height="5" width="100%">
+																			</td></tr></table></td></tr><tr>
+															<td class="h10" height="50" width="100%">
+															</td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table>
+                 <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- footer --><table align="center" bgcolor="#222020" border="0" cellpadding="10" cellspacing="0" role="presentation" width="100%">
+	
+		<tr>
+			<td align="center" bgcolor="#222020" valign="top" width="100%">
+				<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+					
+						<tr>
+							<td align="center">
+								<table align="center" border="0" cellpadding="0" cellspacing="0" class="full" role="presentation" width="100%">
+									
+										<tr>
+											<td height="30" width="100%">
+											</td></tr><tr>
+											<td align="center" width="100%">
+												<a href="#" style="text-decoration: none;"><img alt="Western Logo Dark" height="30" src="https://studentservices.uwo.ca/images/01_western_transparent_grey.png" style="padding: 0px; text-align: center; border: 0; height: 30px" unc="" width="125"> </a></td></tr><tr>
+										</tr><tr>
+											<td height="15" width="100%">
+											</td></tr><tr>
+											<td align="center" valign="middle">
+												<a data-linkto="https://" href="http://click.e.uwo.ca/?qs=9718fe491fbded0cc14f90639491214bf054e7c3e617f49578adf184da3bb73492c718620704ad059f4bc05349a37f9bb52721cee8112e95" title=""><img alt="" height="18" src="https://studentservices.uwo.ca/images/facebook-bw.png" style="height: 18px; width: 18px; padding: 0px; text-align: center;" width="18"></a> <a data-linkto="https://" href="http://click.e.uwo.ca/?qs=9718fe491fbded0c1dd4bcb6134ee9181f3ae68e78b80d0a520a64b81272f42d2d6432424557b78d214b41c208314f971dd94b080861551c" title=""><img alt="" height="18" src="https://studentservices.uwo.ca/images/instagram-bw.png" style="height: 18px; width: 18px; padding: 0px; text-align: center;" width="18"></a></td></tr><tr>
+											<td height="20" width="100%">
+											</td></tr><tr>
+											<td class="opensans" style="font-size: 12px; color: #fdfdfd; text-align: center;                             font-family: Helvetica, Arial, sans-serif, 'Open Sans'; line-height: 1.4;                             vertical-align: top; font-weight: 400;" width="100%">
+												<!-- --><span style="font-weight: 600">Questions?</span> <a href="http://click.e.uwo.ca/?qs=9718fe491fbded0cf22588551a4a567c33e500bfbd37f8b87ebb8b591b721d6bc2cb8ca21e73bd4702e63ffc1f44b8fcb15df7769287a18f" style="color: #fdfdfd; text-decoration: underline;">Send us a message!</a> <!-- --></td></tr><tr>
+											<td class="opensans" style="font-size: 12px; color: #fdfdfd; text-align: center;                             font-family: Helvetica, Arial, sans-serif, 'Open Sans'; line-height: 16px;                             vertical-align: top;font-weight: 600;" width="100%">
+												<a href="#" style="color: #fdfdfd; text-decoration:none"><!--  --> You are receiving this email because you subscribed to receive information about Western. <!--  --> </a></td></tr><tr>
+											<td height="20">
+											</td></tr><tr>
+											<td class="opensans" style="font-size: 12px; color: #fdfdfd; text-align: center;                               font-family: Helvetica, Arial, sans-serif, 'Open Sans'; line-height: 16px;                               vertical-align: top;font-weight: 600;" width="100%">
+												<a href="http://click.e.uwo.ca/?qs=4466d9c21608ae10e46319a1f9594a0bd5f11d35175526c9da628ebf8358a776ee0fd59e32b5a36bdd0de6be2d557f4d7697518f73acfb13" style="color: #fdfdfd; text-decoration: underline;">Manage Communication Preferences</a> | <a href="http://click.e.uwo.ca/?qs=4466d9c21608ae10760d8e1c7a0ebb10874c82f740310f10065b06580b815155dbd7f5503e4407a5d03d4451427a85c15d97476abb1dbe0a" style="color: #fdfdfd; text-decoration: underline;">Privacy Policy</a></td></tr><tr>
+											<td class="opensans" style="font-size: 12px; color: #fdfdfd; text-align: center;                               font-family: Helvetica, Arial, sans-serif, 'Open Sans'; line-height: 16px;                               vertical-align: top;font-weight: 600;" width="100%">
+												&nbsp;</td></tr><tr>
+											<td class="opensans" style="font-size: 12px; color: #fdfdfd; text-align: center;                               font-family: Helvetica, Arial, sans-serif, 'Open Sans'; line-height: 16px;                               vertical-align: top;font-weight: 600;" width="100%">
+												<a href="http://view.e.uwo.ca/?qs=e2131d257c372848233e0fb1a1aacac18dbd835e702d3e6da87adf9818ee20294403d1dfab99b0b237d10d6126c47964b930dd99a5e728686ae60ef14d19ae9bab0c11ce9f910f294b801ae9dedc715c" style="color: #fdfdfd; text-decoration: underline;">View this email in your browser</a></td></tr><tr>
+											<td height="20">
+											</td></tr><tr>
+											<td class="opensans" style="font-size: 14px; color: #fdfdfd; text-align: center;                               font-family: Helvetica, Arial, sans-serif, 'Open Sans'; line-height: 16px;                               vertical-align: top;font-weight: 600;" width="100%">
+												<a href="#" style="color: #fdfdfd; text-decoration:none"><!--  --> Western University <!--  --> </a></td></tr><tr>
+											<td class="opensans" style="font-size: 12px; color: #fdfdfd; text-align: center;                               font-family: Helvetica, Arial, sans-serif, 'opensans'; line-height: 16px;                               vertical-align: top;font-weight: 600;" width="100%">
+												<a href="#" style="color: #fdfdfd; text-decoration:none"><!--  --> 1151 Richmond St London, ON, N6A 5B8, CA </a></td></tr></table><table align="left" border="0" cellpadding="0" cellspacing="0" class="full" role="presentation" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" width="100%">
+									
+										<tr>
+											<td height="15" width="100%">
+											</td></tr></table></td></tr></table><!-- //footer --></td></tr></table></td></tr></table> 
+              
+                
+            </td>
+          </tr>
+      </tbody>
+        </table>
+      </td>
+    </tr>
+  </table>
+  </body>
+</html>
